@@ -1,4 +1,3 @@
-# Mace16
 # My name is: Mika
 
 ## My hobby's are
